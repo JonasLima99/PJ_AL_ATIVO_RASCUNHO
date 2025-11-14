@@ -1,0 +1,14 @@
+# Credenciais e Segurança
+credenciais.json
+
+# Ambiente
+.env
+venv/
+
+# Dados e Cache
+dados/
+__pycache__/
+*.pyc
+
+# Notebooks Temporários
+.ipynb_checkpoints
