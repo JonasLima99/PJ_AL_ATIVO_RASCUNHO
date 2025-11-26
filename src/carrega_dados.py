@@ -23,6 +23,4 @@ def carrega_dados_brutos():
 
     return df
 
-
-
 print(carrega_dados_brutos())
