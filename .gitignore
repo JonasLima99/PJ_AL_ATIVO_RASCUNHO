@@ -9,6 +9,7 @@ venv/
 dados/
 __pycache__/
 *.pyc
+.csv
 
 # Notebooks Temporários
 .ipynb_checkpoints
